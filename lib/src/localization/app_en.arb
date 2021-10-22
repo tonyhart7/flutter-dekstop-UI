@@ -1,0 +1,6 @@
+{
+  "appTitle": "Übersichtsbildschirm",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
